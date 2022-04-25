@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Avirup-Gupta
-- 📫 I am reachable at: avirupg8708@gmail.com
+- 👋 Hi, I’m @Avirup
+- 📫 I am reachable at: avirup.gupta.ee@gmail.com
 
 <!---
 Avirup-Gupta/Avirup-Gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
